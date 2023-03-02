@@ -20,7 +20,7 @@ public String mandatoryMsgForename()
 {
 	return driver.findElement(By.xpath("//label[@for='forename']")).getText();
 }
-public void test1()
+public void test2()
 {
 	
 }
